@@ -7,7 +7,7 @@ You have got the highly customizeable counter with callbacks.
 Zero boilerplate!
 
 <br>
-<img height="400" src="https://github.com/salmaanahmed/flutterCounter/blob/master/screenshots/gif-counter-control.gif" />
+<img height="400" src="https://github.com/eddydn/flutter_elegant_number_button/blob/main/screenshots/Capture.PNG?raw=true" />
 <br>
 
 # Getting Started
@@ -43,10 +43,3 @@ There are some required values and other are for the customization
 
 Beautify your widget with provided customization. You can also change color and size of both buttons and text.
 Very simple to implement and looks awesome. You can find more details in sample app.
-
-# Contributions and Licence
-```FlutterCounter``` is available under the MIT license. See the [LICENSE](https://github.com/salmaanahmed/SAExpandableButton/blob/master/LICENCE.txt) file for more info.
-
-Pull requests are welcome! The best contributions will consist of substitutions or configurations for classes/methods known to block the main thread during a typical app lifecycle.
-
-I would love to know if you are using Counter in your app, send an email to [Salmaan Ahmed](mailto:salmaan.ahmed@hotmail.com)
